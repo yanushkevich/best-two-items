@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.promontory.best.items.assessment.BestItemsApplicationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-04-05T19:06:01" hostname="DESKTOP-3N7D1EB" time="0.032">
+  <properties/>
+  <testcase name="bestTwoItems_Balance_Less_Then_Any_Item_Price_Test" classname="com.promontory.best.items.assessment.BestItemsApplicationTest" time="0.028"/>
+  <testcase name="bestTwoItems_Valid_Input_Test" classname="com.promontory.best.items.assessment.BestItemsApplicationTest" time="0.003"/>
+  <system-out><![CDATA[Data loaded from Datasource in : 0ms
+Data loaded from Datasource in : 0ms
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

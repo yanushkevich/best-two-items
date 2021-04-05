@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.promontory.best.items.assessment.managers.LoadManagerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-04-05T19:06:01" hostname="DESKTOP-3N7D1EB" time="0.001">
+  <properties/>
+  <testcase name="loadManager_Load_Data_Test" classname="com.promontory.best.items.assessment.managers.LoadManagerTest" time="0.0"/>
+  <testcase name="loadManager_Load_Data_With_Invalid_File_Path_Test" classname="com.promontory.best.items.assessment.managers.LoadManagerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

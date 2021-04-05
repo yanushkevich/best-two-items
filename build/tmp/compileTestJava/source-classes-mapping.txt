@@ -1,0 +1,4 @@
+com/promontory/best/items/assessment/managers/LoadManagerTest.java
+ com.promontory.best.items.assessment.managers.LoadManagerTest
+com/promontory/best/items/assessment/BestItemsApplicationTest.java
+ com.promontory.best.items.assessment.BestItemsApplicationTest

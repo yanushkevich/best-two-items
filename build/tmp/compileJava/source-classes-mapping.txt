@@ -1,0 +1,8 @@
+com/promontory/best/items/assessment/models/Item.java
+ com.promontory.best.items.assessment.models.Item
+com/promontory/best/items/assessment/BestItemsApplication.java
+ com.promontory.best.items.assessment.BestItemsApplication
+com/promontory/best/items/assessment/managers/ItemsStorageManager.java
+ com.promontory.best.items.assessment.managers.ItemsStorageManager
+com/promontory/best/items/assessment/managers/LoadManager.java
+ com.promontory.best.items.assessment.managers.LoadManager
